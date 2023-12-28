@@ -12,17 +12,21 @@ Welcome to the Food Order Project repository! This web application is developed 
 
 ### Output - 
 
-![Screenshot (71)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/0049de40-a8e5-465e-a1dd-bc88f902e2e1)
+![Screenshot (71)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/20031fcf-0c88-4463-9a2b-ed7b23913523)
 
-![Screenshot (72)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/80fcb469-99e3-4690-9e57-1b7e5f791bbd)
 
-![Screenshot (73)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/52373a2b-74cf-4123-ae60-c9aefa02aaae)
+![Screenshot (72)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/ca3b806f-e607-4655-9e51-12025d3c4235)
 
-![Screenshot (74)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/a236a764-8077-45ee-85c9-814294b07d96)
 
-### Figma file - 
+![Screenshot (73)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/071d3363-7f26-439d-ae43-1cd9d40f4d22)
 
-![Screenshot (75)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/378fb7c2-176f-4f08-8dd5-2b78109fb3e1)
+
+![Screenshot (74)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/fa9278f0-dd37-496f-b39b-4b6bc6ebaea5)
+
+
+## Figma file - 
+
+![Screenshot (75)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/a2d9d982-9f3f-4a7c-82a5-3c583a70b106)
 
 
 
