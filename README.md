@@ -1,38 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Food Order Project
 
-## Getting Started
+Welcome to the Food Order Project repository! This web application is developed using Next.js and Chakra UI, ensuring a seamless experience for users on both mobile and desktop devices. The project boasts a pixel-perfect design crafted with HTML and CSS, providing an aesthetically pleasing and responsive interface.
 
-First, run the development server:
+## Features
+- **Next.js Framework:** Utilizing the power of Next.js for a fast and efficient web experience.
+- **Chakra UI:** Leveraging Chakra UI to create a visually appealing and user-friendly design.
+- **Responsive Design:** Ensuring optimal performance on both mobile and desktop devices.
+- **Pixel-Perfect Layout:** Precision in design to deliver a visually consistent and polished user interface.
+- **Figma Integration:** Developed based on the provided Figma file for accurate design implementation.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Output - 
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+![Screenshot (71)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/0049de40-a8e5-465e-a1dd-bc88f902e2e1)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+![Screenshot (72)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/80fcb469-99e3-4690-9e57-1b7e5f791bbd)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Screenshot (73)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/52373a2b-74cf-4123-ae60-c9aefa02aaae)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screenshot (74)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/a236a764-8077-45ee-85c9-814294b07d96)
 
-## Learn More
+### Figma file - 
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot (75)](https://github.com/MalharMane/the-internet-folks-food-assignment-main/assets/104439115/378fb7c2-176f-4f08-8dd5-2b78109fb3e1)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## How to Run
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the application with `npm run dev`.
+4. Access the project on your browser at [http://localhost:3000](http://localhost:3000).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feel free to explore, contribute, and enhance the Food Order Project! If you have any questions or feedback, don't hesitate to reach out.
